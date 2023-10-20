@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Pixelify+Sans:wght@500&display=swap');
+
+.cuerpo{
+    background-image:url("https://png.pngtree.com/background/20210712/original/pngtree-cute-hand-drawn-style-math-education-blue-plaid-background-picture-image_1176978.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.titulo{
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    color: rgb(17, 115, 2);
+}
+.estilo{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    margin-left: 30%;
+    color: rgb(17, 115, 2);
+}
+.mb-3{
+    text-align: center;
+}
+.btnbtn-primary{
+    background-color: rgb(133, 128, 218);
+    width: 90px;
+    color:rgb(12, 71, 3);
+}
